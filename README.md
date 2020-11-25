@@ -1,7 +1,8 @@
-[OnlineUA] DWBI\DQE Program 2020
-VCS, GIT, Reg.Exp Homework
+# [OnlineUA] DWBI\DQE Program 2020
+## VCS, GIT, Reg.Exp Homework
 
-Task description:
+### Task description:
+
 1. Create public GitHub repository;
 2. Add Readme.md file to master branch;
 3. Create feature branch called 'feature_x';
